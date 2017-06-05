@@ -1,0 +1,19 @@
+bulls and co game 
+but du jeu : demander un mot a lutilisateur comparer ce mot avec les mots de notre fichiers 10 mots ayant une taille spécifiques 
+la séléction du mot doit être aléatoire 
+vous devrez testé la saisie des utilisateur. les mots saisie en majuscules ne sont pas accepté 
+les caractères spéciaux ne sont pas acceptés 
+les mots ne peuvent pas avoir plusieur fois la meme lettre et le mot à un nombre de caractère maximun 
+vous testerez la longueur du mot saisie par l'utilisateur et lui indiquerer si le mot est trop petit ou si le mot est trop grand 
+ainsi que le mot de caractère max 
+identifier le nombre d'essai max en fction de la taille du mot
+si il y a une erreur de saisie le nombre saisie n'est pas incrementé ou décrémenté 
+vous utilisez les tailels de mots suivante 
+3,4,5,6,7
+et pour chaque taille de mot y'a le meme nombre d'essaie différent 
+3 : 4 essaie
+4 : 7 essaie 
+5 : 10 essaie 
+6 : 16 essaie 
+7 : 20 essaie 
+indiqué au joueur quand il perd ou quand il gagne et le joueur peut recommencé. 

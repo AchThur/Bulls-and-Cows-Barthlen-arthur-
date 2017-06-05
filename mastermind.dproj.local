@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/24 22:59:27.000.474,=C:\Users\Arthur BARTHLEN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/05/15 09:08:45.000.058,=C:\Users\Arthur BARTHLEN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/05/16 15:28:09.000.061,=C:\Users\Arthur BARTHLEN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/05/16 15:49:32.000.321,C:\Users\Arthur BARTHLEN\Desktop\Rad STUDIO PROJET\Bulls_and_cow.pas=C:\Users\Arthur BARTHLEN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/05/16 15:49:32.000.321,C:\Users\Arthur BARTHLEN\Desktop\Rad STUDIO PROJET\Bulls_and_cow.dfm=C:\Users\Arthur BARTHLEN\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2017/05/16 15:50:31.000.663,C:\Users\Arthur BARTHLEN\Desktop\Rad STUDIO PROJET\bulls and co\mastermind.dproj=C:\Users\Arthur BARTHLEN\Documents\Embarcadero\Studio\Projets\Project2.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
